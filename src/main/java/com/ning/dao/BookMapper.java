@@ -5,6 +5,12 @@ import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
+
+/**
+ * @Author: Ning
+ * @Date:2020/2/26 0026 下午 11:08
+ **/
+
 public interface BookMapper {
 
     //增加一本书
